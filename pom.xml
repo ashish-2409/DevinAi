@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.ashish</groupId>
+    <groupId>org.example</groupId>
     <artifactId>devinai</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>DevinAi</name>

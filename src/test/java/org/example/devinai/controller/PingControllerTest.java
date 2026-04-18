@@ -1,4 +1,4 @@
-package com.ashish.devinai.controller;
+package org.example.devinai.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

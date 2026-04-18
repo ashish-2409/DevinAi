@@ -1,4 +1,4 @@
-package com.ashish.devinai;
+package org.example.devinai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

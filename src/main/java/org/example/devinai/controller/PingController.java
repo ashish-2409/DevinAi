@@ -1,4 +1,4 @@
-package com.ashish.devinai.controller;
+package org.example.devinai.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
